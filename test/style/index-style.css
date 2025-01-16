@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+* {
+	/*outline: 1px dotted #f00;*/
+}
+
+body {
+	background-color: #FEF9EE;
+	margin: 0 auto;
+	width: 800px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.btn {
+	margin-left: 275px;
+	width: 250px;
+	text-align: center;
+	padding: 10px;
+	background-color: #965042;
+}
+
+a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+
